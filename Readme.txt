@@ -1,8 +1,8 @@
 streamlit
+plotly
+pandas
 anthropic
 openai
-pandas
-plotly
 beautifulsoup4
 requests
 openpyxl
